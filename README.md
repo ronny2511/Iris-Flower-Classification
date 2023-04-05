@@ -9,10 +9,15 @@ We have used a classification model to predict the species of iris flowers. We h
 
 # Technologies Used
 Python
+
 Pandas
+
 Numpy
+
 Scikit-learn
+
 Matplotlib
+
 Seaborn
 
 # Results
@@ -23,5 +28,7 @@ To use the model, you can input the features of the iris flower (sepal length, s
 
 # Acknowledgements
 Kaggle for providing the dataset
+
 Scikit-learn for providing the machine learning algorithms
+
 Matplotlib and Seaborn for data visualization
