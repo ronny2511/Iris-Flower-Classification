@@ -1,4 +1,4 @@
-# oibsip1 - Iris Flower Classification
+# Iris Flower Classification
 This is a machine learning project that classifies the species of iris flowers based on their features such as sepal length, sepal width, petal length, and petal width.
 
 # Dataset
